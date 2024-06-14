@@ -129,7 +129,7 @@ ul{
 .primary-button{
     background-color:var(--accent-color);
     border-radius: 7px;
-    font-weight:700;
+    font-weight:600;
     color:white !important;
     box-shadow:0 0 4px var(--secondary-text-color);
     padding: 12px 24px;
@@ -146,7 +146,7 @@ ul{
     border:1px solid var(--accent-color);
     padding:12px 24px;
     border-radius:7px;
-    font-weight:700;
+    font-weight:600;
     color:var(--accent-color) !important;
     transition:0.2s ease-out;
 
